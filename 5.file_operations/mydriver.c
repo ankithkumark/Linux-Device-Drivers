@@ -1,6 +1,7 @@
 /*
  * File:	mydriver.c
  * Details:	Simple linux device driver for file operations
+ * Tested in lubuntu 24.04
  */
 
 #include <linux/kernel.h>
